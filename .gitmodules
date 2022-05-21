@@ -1,4 +1,4 @@
 [submodule "{{node_name}}"]
 	path = {{node_name}}
-	url = https://github.com/sacha-l/substrate-node-template.git
-	branch = kickstart-node-template
+	url = https://github.com/substrate-developer-hub/substrate-node-template.git
+	branch = master
